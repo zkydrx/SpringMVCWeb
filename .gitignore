@@ -28,3 +28,10 @@ hs_err_pid*
 
 target/
 
+### Java template
+# Compiled class file
+
+
+.idea/dataSources.local.xml
+.idea/dataSources/
+
